@@ -5,4 +5,4 @@ A snippet for creating a simple standard website. A no frill template I use just
 Copy the files as the base the project then code away!
 
 #### CDN library usage
-Simply uncomment the CDN links and erase what you don't need.
+Simply uncomment the CDN links or just erase what you don't need.
